@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/saleh_moradi378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saleh_moradi378" height="30" width="40" /></a>
-<a href="https://t.me/saleh13832" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="saleh_moradi378" height="30" width="40" /></a>
+<a href="https://instagram.com/saleh_moradi378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saleh_moradi378" height="30" width="30" /></a>
+<a href="https://t.me/saleh13832" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="saleh_moradi378" height="30" width="30" /></a>
 <a href="https://codeforces.com/profile/saleh2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saleh2005" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saleh2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saleh2005" height="30" width="40" /></a>
 </p>
