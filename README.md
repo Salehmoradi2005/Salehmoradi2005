@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salehmoradi2005" alt="salehmoradi2005" /></a> </p>
 
 - 📫 How to reach me **moradisaleh2@gmail.com**
+- 📫 Reach me on Telegram **t.me/saleh13832**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
