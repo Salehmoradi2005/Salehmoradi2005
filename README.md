@@ -1,6 +1,6 @@
 <h1 align="center">I'm Saleh Moradi</h1>
 <h3 align="center">Software Engineer and Fullstack dev</h3>
-<h4>Low level system and electronic programmer</h4>
+<h4 align="center">Low level system and electronic programmer</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salehmoradi2005&label=Profile%20views&color=0e75b6&style=flat" alt="salehmoradi2005" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salehmoradi2005" alt="salehmoradi2005" /></a> </p>
