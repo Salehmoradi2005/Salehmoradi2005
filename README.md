@@ -1,5 +1,10 @@
-<h3 align="center">Full-stack developer with a strong background in **C++**, **C#**, **Python**, and **web development**.  </h3>
-<h5 align="center">I love building **efficient, scalable software**, exploring **AI and open-source projects**, and creating **modern web applications**.</h5>
+<h3 align="center">
+Full-stack developer with a strong background in <strong>C++</strong>, <strong>C#</strong>, <strong>Python</strong>, and <strong>web development</strong>.
+</h3>
+<h5 align="center">
+I love building <strong>efficient, scalable software</strong>, exploring <strong>AI and open-source projects</strong>, and creating <strong>modern web applications</strong>.
+</h5>
+
 
 ### 💻 Tech Stack
 **Languages:** C++, C#, Python, JavaScript, TypeScript, PHP  
