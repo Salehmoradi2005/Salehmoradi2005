@@ -1,4 +1,4 @@
-I’m a full-stack developer with a strong background in **C++**, **C#**, **Python**, and **web development**.  
+Full-stack developer with a strong background in **C++**, **C#**, **Python**, and **web development**.  
 I love building **efficient, scalable software**, exploring **AI and open-source projects**, and creating **modern web applications**.
 
 ### 💻 Tech Stack
