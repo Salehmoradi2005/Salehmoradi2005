@@ -19,3 +19,7 @@ I love building **efficient, scalable software**, exploring **AI and open-source
 - [Nike Web Shop Demo](https://github.com/yourusername/nike-web-shop) – Modern e-commerce frontend built with React & Tailwind.
 - [AI Self-Aware Prototype](https://github.com/yourusername/ai-prototype) – Experimental AI research with self-learning features.
 
+<br>
+<br>
+###  Connect with me
+[Email Me](mailto:moradisaleh2@gmail.com) | [Telegram](https://t.me/Saleh13832) 
