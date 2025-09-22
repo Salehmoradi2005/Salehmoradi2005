@@ -31,8 +31,6 @@ I love building <strong>efficient, scalable software</strong>, exploring <strong
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salehmoradi2005&layout=compact&theme=radical)
-
-<br>
 <br>
 ### 🔥 Featured Projects
 - [Nike Web Shop Demo](https://github.com/Salehmoradi2005/Nike-demo-store) – Modern e-commerce frontend built with React & Tailwind.
