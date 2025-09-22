@@ -22,4 +22,4 @@ I love building **efficient, scalable software**, exploring **AI and open-source
 <br>
 <br>
 ###  Connect with me
--[Email Me](mailto:moradisaleh2@gmail.com) | -[Telegram](https://t.me/Saleh13832) 
+-[Telegram](https://t.me/Saleh13832) 
