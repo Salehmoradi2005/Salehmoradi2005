@@ -34,6 +34,6 @@ I love building <strong>efficient, scalable software</strong>, exploring <strong
 <br>
 <br>
 ### 🔥 Featured Projects
-- [Nike Web Shop Demo](https://github.com/yourusername/nike-web-shop) – Modern e-commerce frontend built with React & Tailwind.
-- [AI Self-Aware Prototype](https://github.com/yourusername/ai-prototype) – Experimental AI research with self-learning features.
+- [Nike Web Shop Demo](https://github.com/Salehmoradi2005/Nike-demo-store) – Modern e-commerce frontend built with React & Tailwind.
+
 
