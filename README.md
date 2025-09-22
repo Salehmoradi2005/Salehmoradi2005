@@ -7,5 +7,6 @@ I love building **efficient, scalable software**, exploring **AI and open-source
 **Backend:** Node.js, .NET, Express  
 **Databases:** SQL Server, MySQL, MongoDB  
 **Tools & Platforms:** Git, Docker, Linux, VS Code, Azure
+<br>
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
