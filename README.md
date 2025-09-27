@@ -34,5 +34,5 @@ I love building <strong>efficient, scalable software</strong>, exploring <strong
 <br>
 ### 🔥 Featured Projects
 - [Nike Web Shop Demo](https://github.com/Salehmoradi2005/Nike-demo-store) – Modern e-commerce frontend built with React & Tailwind.
-
+- [DNS Master](https://github.com/Salehmoradi2005/DNSMaster) – Windows lightweight and beautiful DNS manager .
 
