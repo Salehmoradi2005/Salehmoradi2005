@@ -1,5 +1,5 @@
 <h3>
-Full-stack developer with a strong background in <strong>C++</strong>, <strong>C#</strong>, <strong>Python</strong>, and <strong>web development</strong>.
+Full-stack developer with background in <strong>C++</strong>, <strong>C#</strong>, <strong>Python</strong>, and <strong>web development</strong>.
 </h3>
 <h5>
 I love building <strong>efficient, scalable software</strong>, exploring <strong>AI and open-source projects</strong>, and creating <strong>modern web applications</strong>.
