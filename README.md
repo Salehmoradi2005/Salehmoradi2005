@@ -30,7 +30,7 @@ I love building <strong>efficient, scalable software</strong>, exploring <strong
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salehmoradi2005&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salehmoradi2005&show_icons=true&theme=radical)
 <br>
 ### 🔥 Featured Projects
 - [Nike Web Shop Demo](https://github.com/Salehmoradi2005/Nike-demo-store) – Modern e-commerce frontend built with React & Tailwind.
