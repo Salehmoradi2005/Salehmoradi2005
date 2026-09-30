@@ -1,9 +1,38 @@
-{
-  "owner": "Salehmoradi2005",
-  "repo": "Salehmoradi2005",
-  "path": "README.md",
-  "branch": "main",
-  "sha": "5c38fefa7cb268fc4435aff4275ab898c6659c2d",
-  "message": "Refresh profile README with a clean developer presentation",
-  "content": "<div align=\"center\">\n\n# Hi, I'm Saleh Moradi 👋\n\n### Full-stack Developer · Software Engineer\n\nBuilding for the web, developing desktop tools, and exploring embedded systems.\n\n[GitHub](https://github.com/Salehmoradi2005) · [Email](mailto:moradisaleh2@gmail.com)\n\n</div>\n\n---\n\n## About me\n\nI'm a software developer who enjoys turning ideas into practical applications. My projects span TypeScript-based web development, C# desktop applications, C++ programming, and microcontroller experiments.\n\n- **Web:** Building applications and reusable starter projects with TypeScript and JavaScript.\n- **Desktop:** Developing Windows tools with C# and WPF.\n- **Embedded:** Experimenting with Arduino, ESP8266, and ESP32.\n- **Interests:** Mathematics, algorithms, and understanding how software works beneath the surface.\n\n## Tech stack\n\n| Area | Technologies |\n| :--- | :--- |\n| Web development | TypeScript, JavaScript, React, Next.js, HTML, CSS |\n| Desktop development | C#, .NET, WPF |\n| Programming & algorithms | C++, Python |\n| Embedded systems | Arduino, ESP8266, ESP32 |\n| Development tools | Git, GitHub, Windows, Linux |\n\n## Featured projects\n\n### DNSMaster\n\nA lightweight, open-source Windows application for switching DNS servers.\n\n**Built with:** C# · WPF\n\n[Explore the repository →](https://github.com/Salehmoradi2005/DNSMaster)\n\n### Microcontroller projects\n\nA collection of Arduino, ESP8266, and ESP32 projects, from beginner experiments to more advanced IoT applications.\n\n**Built with:** C++ · Arduino · ESP8266 · ESP32\n\n[Explore the repository →](https://github.com/Salehmoradi2005/Microcontroller-projects)\n\n### C++ projects\n\nProgramming projects exploring C++ concepts, data structures, and algorithms.\n\n**Built with:** C++\n\n[Explore the repository →](https://github.com/Salehmoradi2005/Cpp-Projects)\n\n### Nike demo store\n\nA demo online store created for presentation.\n\n**Built with:** JavaScript\n\n[Explore the repository →](https://github.com/Salehmoradi2005/Nike-demo-store)\n\n## Connect\n\nHave a project idea or want to discuss software development?\n\n- **Email:** [moradisaleh2@gmail.com](mailto:moradisaleh2@gmail.com)\n- **GitHub:** [@Salehmoradi2005](https://github.com/Salehmoradi2005)\n\n---\n\n<div align=\"center\">\n\n*Build. Learn. Iterate.*\n\n</div>\n"
-}
+<h3>
+Full-stack developer with background in <strong>C++</strong>, <strong>C#</strong>, <strong>Python</strong>, and <strong>web development</strong>.
+</h3>
+<h5>
+I love building <strong>efficient, scalable software</strong>, exploring <strong>AI and open-source projects</strong>, and creating <strong>modern web applications</strong>.
+</h5>
+
+
+### 💻 Tech Stack
+**Languages:** C++, C#, Python, JavaScript, TypeScript, PHP  
+**Frontend:** React, Next.js, TailwindCSS  
+**Backend:** Node.js, .NET, Express  
+**Databases:** SQL Server, MySQL, MongoDB  
+**Tools & Platforms:** Git, Docker, Linux, VS Code, Azure
+<br>
+<br>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salehmoradi2005&show_icons=true&theme=radical)
+<br>
+### 🔥 Featured Projects
+- [Nike Web Shop Demo](https://github.com/Salehmoradi2005/Nike-demo-store) – Modern e-commerce frontend built with React & Tailwind.
+- [DNS Master](https://github.com/Salehmoradi2005/DNSMaster) – Windows lightweight and beautiful DNS manager .
+
