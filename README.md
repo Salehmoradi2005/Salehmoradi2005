@@ -13,6 +13,8 @@
 </p>
 
 <hr />
+
+
 ## whoami
 
 <picture>
@@ -66,6 +68,7 @@
 **B.Sc. in Software Engineering** — Islamic Azad University, Hamedan Branch *(In progress)*
 
 <hr />
+
 ## Stack
 
 | Layer | Tools |
