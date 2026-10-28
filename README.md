@@ -20,3 +20,8 @@
 <source  srcset="assets/whoami-light.svg">
 <img alt="Saleh Moradi" src="assets/whoami-dark.svg" width="100%">
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/impact-light.svg">
+  <img alt="Something" src="assets/impact-dark.svg" width="100%">
+</picture>
