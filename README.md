@@ -103,3 +103,17 @@
 </p>
 
 
+<p align="center">
+  <picture>
+    <source srcset="https://streak-stats.demolab.com/?user=roydonsequeira&background=FFFFFF&border=DCD8CF&stroke=DCD8CF&ring=00735F&fire=00735F&currStreakNum=121417&sideNums=121417&currStreakLabel=00735F&sideLabels=555A63&dates=7C8089&border_radius=16">
+    <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=Salehmoradi2005&background=0A0B0D&border=242931&stroke=242931&ring=00E6C3&fire=00E6C3&currStreakNum=EDEFF2&sideNums=EDEFF2&currStreakLabel=00E6C3&sideLabels=8B93A0&dates=5C636E&border_radius=16" width="70%">
+  </picture>
+</p>
+
+<a href="mailto:moradisaleh2@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+    <img alt="Let's engineer systems that scale. Open to software engineering, full-stack development, system design, and AI projects." src="assets/footer-dark.svg" width="100%">
+  </picture>
+</a>
