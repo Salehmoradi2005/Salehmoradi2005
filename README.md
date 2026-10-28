@@ -82,3 +82,24 @@
 | **Tools & Workflow** | Git · GitHub · VS Code · npm · Cargo · Figma |
 
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi%2Cflask%2Cpostgres%2Credis%2Cdocker%2Clinux%2Cgithubactions%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Cnextjs%2Cts%2Ctailwind%2Cvercel&perline=16&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi%2Cflask%2Cpostgres%2Credis%2Cdocker%2Clinux%2Cgithubactions%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Cnextjs%2Cts%2Ctailwind%2Cvercel&perline=16&theme=light">
+    <img alt="Python, FastAPI, Flask, PostgreSQL, Redis, Docker, Linux, GitHub Actions, PyTorch, TensorFlow, scikit-learn, OpenCV, Next.js, TypeScript, Tailwind CSS, Vercel" src="https://skillicons.dev/icons?i=python%2Cfastapi%2Cflask%2Cpostgres%2Credis%2Cdocker%2Clinux%2Cgithubactions%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Cnextjs%2Cts%2Ctailwind%2Cvercel&perline=16&theme=dark" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-0A0B0D?style=flat-square&logo=langchain&logoColor=00E6C3">
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-0A0B0D?style=flat-square&logo=ollama&logoColor=00E6C3">
+  <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-0A0B0D?style=flat-square&logo=qdrant&logoColor=00E6C3">
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-0A0B0D?style=flat-square&logo=n8n&logoColor=00E6C3">
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-0A0B0D?style=flat-square&logo=claude&logoColor=00E6C3">
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-0A0B0D?style=flat-square&logo=googlegemini&logoColor=00E6C3">
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-0A0B0D?style=flat-square&logo=huggingface&logoColor=00E6C3">
+  <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-0A0B0D?style=flat-square&logo=opentelemetry&logoColor=00E6C3">
+  <img alt="WhatsApp Business API" src="https://img.shields.io/badge/WhatsApp_API-0A0B0D?style=flat-square&logo=whatsapp&logoColor=00E6C3">
+</p>
+
+
