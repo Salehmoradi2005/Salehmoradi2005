@@ -22,6 +22,6 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/impact-dark.svg">
+  <source srcset="assets/impact-light.svg">
   <img alt="Something" src="assets/impact-dark.svg" width="100%">
 </picture>
