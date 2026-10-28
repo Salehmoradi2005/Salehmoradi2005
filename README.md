@@ -112,8 +112,7 @@
 
 <a href="mailto:moradisaleh2@gmail.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+    <source  srcset="assets/footer-light.svg">
     <img alt="Let's engineer systems that scale. Open to software engineering, full-stack development, system design, and AI projects." src="assets/footer-dark.svg" width="100%">
   </picture>
 </a>
