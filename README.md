@@ -65,4 +65,20 @@
 
 **B.Sc. in Software Engineering** — Islamic Azad University, Hamedan Branch *(In progress)*
 
+<hr />
+## Stack
+
+| Layer | Tools |
+| --- | --- |
+| **Frontend** | React · Next.js · TypeScript · JavaScript · Tailwind CSS · Material Tailwind |
+| **Backend & APIs** | Node.js · Next.js API Routes · Python · PHP · REST APIs |
+| **Databases** | MySQL · MariaDB · SQL · Database Design · Query Optimization |
+| **AI & LLMs** | Python · Hugging Face · GGUF · Ollama · Local LLM Inference · LLM Integration · Prompt Engineering |
+| **Machine Learning** | PyTorch · NumPy · Pandas · scikit-learn · Data Analysis |
+| **System Design** | Software Architecture · API Design · Modular Systems · Authentication · Real-Time Applications |
+| **DevOps & Infrastructure** | Linux · Ubuntu · CachyOS · Nginx · Docker · PM2 · Cloudflare · Git |
+| **Integrations** | Web3 · WalletConnect · Reown AppKit · Payment Gateways · Authentication Providers |
+| **Languages** | C# · JavaScript · TypeScript · C++ · Python · PHP · SQL |
+| **Tools & Workflow** | Git · GitHub · VS Code · npm · Cargo · Figma |
+
 
